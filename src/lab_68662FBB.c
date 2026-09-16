@@ -9,7 +9,12 @@ void printscreen()
 #ifndef ___TEST___
 int main()
 {
-    printscreen();
+    printf("  #  \n");
+    printf(" # # \n");
+    printf("#   #\n");
+    printf("#####\n");
+    printf("#   #\n");
+    printf("#   #\n");
     return(0);
 }
 #endif
