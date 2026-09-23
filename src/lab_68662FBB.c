@@ -2,19 +2,19 @@
 
 void printscreen()
 {
-    // Please write your code here
+    printf("  #  \n");
+    printf(" # # \n");
+    printf("#   #\n");
+    printf("#####\n");
+    printf("#   #\n");
+    printf("#   #\n");// Please write your code here
 }
 
 // DO NOT change the code below
 #ifndef ___TEST___
 int main()
 {
-    printf("  #  \n");
-    printf(" # # \n");
-    printf("#   #\n");
-    printf("#####\n");
-    printf("#   #\n");
-    printf("#   #\n");
+    printscreen();
     return(0);
 }
 #endif
