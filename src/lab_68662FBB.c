@@ -2,12 +2,12 @@
 
 void printscreen()
 {
-    printf("  #  \n");
-    printf(" # # \n");
-    printf("#   #\n");
-    printf("#####\n");
-    printf("#   #\n");
-    printf("#   #\n");// Please write your code here
+    printf(" ####  \n");
+    printf("#    # \n");
+    printf("#    # \n");
+    printf("###### \n");
+    printf("#    # \n");
+    printf("#    # \n");// Please write your code here
 }
 
 // DO NOT change the code below
